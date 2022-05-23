@@ -12,8 +12,8 @@ export default function Topbar(){
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
-                 <Search />
-                 <input placeholder="Search for freiend, post or video" className="search" />
+                 <Search className="searchIcon"/>
+                 <input placeholder="Search for freiend, post or video" className="searchInput" />
                 </div>
             </div>
             <div className="topbarRight">
@@ -26,23 +26,20 @@ export default function Topbar(){
         <div className="topbarIcons">
             <div className="topbarIconItem">
                 <Person/>
-                <spam className="topbarIconBadge"></spam>
+                <spam className="topbarIconBadge">8</spam>
             </div>
 
             <div className="topbarIconItem">
                 <Chat/>
-                <spam className="topbarIconBadge"></spam>
+                <spam className="topbarIconBadge">3</spam>
             </div>
             
             <div className="topbarIconItem">
                 <Notifications/>
-                <spam className="topbarIconBadge"></spam>
+                <spam className="topbarIconBadge">5</spam>
             </div>
           
-            <div className="topbarIconItem">
-                <Person/>
-                <spam className="topbarIconBadge"></spam>
-            </div>
+        
 
         </div>
         <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />
