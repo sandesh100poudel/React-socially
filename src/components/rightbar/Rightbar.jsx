@@ -21,6 +21,51 @@ export default function Rightbar() {
     <span className="rightbarUsername">john carter</span>
 
   </li>
+
+  <li className="rightbarFriend">
+    <div className="rightbarProfileImgContainer">
+      <img src="assets/person/3.jpeg" className="rightbarProfileImg"alt=""/>
+      <spam className="rightbarOnline"></spam>
+    </div>
+    <span className="rightbarUsername">john carter</span>
+
+  </li>
+
+  <li className="rightbarFriend">
+    <div className="rightbarProfileImgContainer">
+      <img src="assets/person/3.jpeg" className="rightbarProfileImg"alt=""/>
+      <spam className="rightbarOnline"></spam>
+    </div>
+    <span className="rightbarUsername">john carter</span>
+
+  </li>
+
+  <li className="rightbarFriend">
+    <div className="rightbarProfileImgContainer">
+      <img src="assets/person/3.jpeg" className="rightbarProfileImg"alt=""/>
+      <spam className="rightbarOnline"></spam>
+    </div>
+    <span className="rightbarUsername">john carter</span>
+
+  </li>
+
+  <li className="rightbarFriend">
+    <div className="rightbarProfileImgContainer">
+      <img src="assets/person/3.jpeg" className="rightbarProfileImg"alt=""/>
+      <spam className="rightbarOnline"></spam>
+    </div>
+    <span className="rightbarUsername">john carter</span>
+
+  </li>
+
+  <li className="rightbarFriend">
+    <div className="rightbarProfileImgContainer">
+      <img src="assets/person/3.jpeg" className="rightbarProfileImg"alt=""/>
+      <spam className="rightbarOnline"></spam>
+    </div>
+    <span className="rightbarUsername">john carter</span>
+
+  </li>
   </ul>
 
     </div>

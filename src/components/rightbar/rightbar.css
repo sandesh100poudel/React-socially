@@ -28,10 +28,12 @@
     width: 100%;
     border-radius:10px;
     margin:30px 0;
+    padding: 20px;
 }
 
 .rightbarTitle{
     margin-bottom: 20px;
+    padding:20px;
 }
 
 .rightbarFriendList{
@@ -45,7 +47,7 @@
     margin-bottom: 15px;
 }
 
-.rightProfileImgContainer{
+.rightbarProfileImgContainer{
     margin-right: 10px;
     position: relative;
 }
@@ -55,6 +57,7 @@
     height: 40px;
     border-radius:50%;
     object-fit: cover;
+    margin-left: 20px;
 }
 
 .rightbarOnline{
